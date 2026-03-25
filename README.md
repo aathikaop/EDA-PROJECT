@@ -25,18 +25,18 @@ This project focuses on analyzing student data to identify key factors associate
 eda-project/
 │
 ├── data/
-│   ├── raw/                 # Original dataset
-│   ├── interim/             # Cleaned dataset (Day 2)
-│   └── processed/           # Final dataset (Day 4)
+│ ├── raw/ # Original dataset
+│ ├── interim/ # Cleaned dataset (Day 2)
+│ └── processed/ # Final dataset (Day 4)
 │
 ├── notebooks/
-│   ├── 01_data_overview.ipynb
-│   ├── 02_cleaning_preprocessing.ipynb
-│   ├── 03_univariate_bivariate_eda.ipynb
-│   └── 04_stats_time_features_final_insights.ipynb
+│ ├── 01_data_overview.ipynb
+│ ├── 02_cleaning_preprocessing.ipynb
+│ ├── 03_univariate_bivariate_eda.ipynb
+│ └── 04_stats_time_features_final_insights.ipynb
 │
 ├── reports/
-│   └── figures/             # Exported plots
+│ └── figures/ # Saved visualizations
 │
 └── README.md
 

@@ -1,4 +1,4 @@
-# 📊 Student Dropout Analysis
+# Student Dropout Analysis
 
 ## Project Overview
 This project focuses on analyzing student data to identify key factors associated with dropout. Using Exploratory Data Analysis (EDA), statistical testing, and feature engineering, the goal is to understand patterns and build meaningful insights.
@@ -20,7 +20,7 @@ This project focuses on analyzing student data to identify key factors associate
 - Target Variable: Dropout
 
 
-## 📂 Project Structure
+##  Project Structure
 
 eda-project/
 │
@@ -44,7 +44,7 @@ eda-project/
 
 ---
 
-## 🔍 Key Steps Performed
+##  Key Steps Performed
 
 ### 1. Data Overview
 - Understanding dataset structure
@@ -73,7 +73,7 @@ eda-project/
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Dropout is strongly influenced by academic performance, especially GPA  
 - Higher stress levels are associated with increased dropout risk  
@@ -83,7 +83,7 @@ eda-project/
 
 ---
 
-## 📈 Tools & Technologies Used
+## Tools & Technologies Used
 
 - Python
 - Pandas
@@ -94,7 +94,7 @@ eda-project/
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 1. Clone the repository:
 ```bash
